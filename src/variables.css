@@ -1,0 +1,16 @@
+:root {
+  --white: #ffffff;
+
+  --primary-1: #fffacd; /* Lemon Chiffon */
+  --primary-2: #fff9c4; /* Pastel Yellow */
+  --primary-3: #ffeb3b; /* Sunshine Yellow */
+  --primary-4: #ffda03; /* Dandelion Yellow */
+  --primary-5: #ffef00; /* Canary Yellow */
+  --primary-6: #ffc30b; /* Honey Yellow */
+  --primary-7: #ffdd55; /* Mimosa Yellow */
+  --primary-8: #ffc107; /* Golden Yellow */
+  --primary-9: #ffcc00; /* Mustard Yellow */
+  --primary-10: #cc9900; /* Ochre Yellow */
+
+  --shadow-m: 0px 4px 6px rgba(0, 0, 0, 0.3);
+}

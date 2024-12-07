@@ -1,0 +1,25 @@
+.name-modal {
+  .name-text {
+    font-size: 24px;
+    white-space: nowrap;
+  }
+
+  .name-input {
+    border: 1px solid var(--primary-4);
+    border-radius: 12px;
+    border-color: var(--primary-4);
+
+    color: var(--primary-8);
+    padding: 8px;
+    outline: none;
+    width: 100%;
+  }
+
+  .enter-button {
+    align-self: flex-end;
+  }
+}
+
+.welcome-modal {
+  text-align: center;
+}
